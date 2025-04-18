@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - KIARA CITY HIGH SCHOOL BULAGA</title>
+    <style>
+        /* Paste the exact same CSS styles from index.html here */
+        /* All styles remain identical to maintain consistency */
+        /* [Copy all the CSS from the index.html file above] */
+    </style>
+</head>
+<body>
+    <header>
+        <div class="school-title">
+            <h1>KIARA CITY HIGH SCHOOL BULAGA</h1>
+            <p>LIGHT YOUR CANDLE</p>
+        </div>
+    </header>
+    
+    <nav>
+        <div class="nav-container">
+            <ul>
+                <li><a href="index.html">Home</a></li> <!-- Changed to link back to home -->
+                <li><a href="academics.html">Academics</a></li>
+                <li><a href="admissions.html">Admissions</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+            </ul>
+        </div>
+    </nav>
+    
+    <main>
+        <section class="about-hero">
+            <h2>About Our School</h2>
+            <p>Kiara City High School Bulaga is a premier educational institution in Uganda dedicated to nurturing future leaders through holistic education since our founding in 2022.</p>
+        </section>
+        
+        <section class="history">
+            <h2>Our History</h2>
+            <p>Established in 2022 with just 50 students and 5 teachers, Kiara City High School Bulaga has grown to become one of the most respected secondary schools in the region.</p>
+        </section>
+        
+        <section class="values">
+            <h2>Our Core Values</h2>
+            <div class="values-list">
+                <div class="value-card">
+                    <h3>ACADEMIC EXCELLENCE</h3>
+                    <p>We strive for the highest standards in academics, character development, and extracurricular activities.</p>
+                </div>
+                <div class="value-card">
+                    <h3>GOD FEARING</h3>
+                    <p>We uphold strong moral principles and ethical conduct in all our endeavors.</p>
+                </div>
+                <div class="value-card">
+                    <h3>DISCIPLINE</h3>
+                    <p>We embrace discipline for all of our students and modern teaching methods.</p>
+                </div>
+                <div class="value-card">
+                    <h3>HYGIENE AND SANITATION</h3>
+                    <p>We foster a supportive environment where students and staff observe cleanliness.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2025 KIARA CITY HIGH SCHOOL BULAGA. All Rights Reserved</p>
+    </footer>
+</body>
+</html>
